@@ -1,0 +1,1 @@
+train_data = pd.read_csv("train_FD001.txt", delim_whitespace=True, header=None)
